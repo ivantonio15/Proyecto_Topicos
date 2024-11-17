@@ -1,0 +1,6 @@
+torch
+torchvision
+requests
+Pillow
+pyttsx3
+gradio
